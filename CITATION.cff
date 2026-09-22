@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it using the metadata below and cite the original official sources recorded in the workbook."
+title: "DNHDD Longitudinal Official Data"
+type: dataset
+authors:
+  - family-names: "Sharma"
+    given-names: "Ranveer"
+version: 1.0.0
+date-released: 2026-09-22
+repository-code: "https://github.com/alwaysaccessible/dnhdd-longitudinal-official-data"
+url: "https://github.com/alwaysaccessible/dnhdd-longitudinal-official-data/releases/tag/v1.0.0"
+keywords:
+  - official statistics
+  - economics
+  - public policy
+  - India
+  - Dadra and Nagar Haveli
+  - Daman and Diu
+  - longitudinal data
+abstract: >-
+  A research-ready workbook of official economic, social, fiscal,
+  infrastructure, environmental, policy, parliamentary, scheme, transport,
+  tax and CSR data for Dadra and Nagar Haveli and Daman and Diu.
