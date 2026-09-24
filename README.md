@@ -13,6 +13,10 @@ The workbook consolidates the maximum usable time span available from official s
 
 The dataset is intended for empirical economic and public-policy research, descriptive analysis, replication, teaching and evidence-based reporting. It does not replace the underlying official publications.
 
+## LaTeX Beamer deck
+
+This repository also contains an academic LaTeX Beamer presentation of the policy review in [`LaTeX-Beamer/`](./LaTeX-Beamer/). The deck uses a standard monochrome academic style and preserves the review's tables, sources, caveats, evidence gaps and reform proposals.
+
 ## Workbook structure
 
 | Sheet | Contents |
